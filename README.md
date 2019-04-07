@@ -1,6 +1,6 @@
 # Python-Data-Science-Toolbox-Part-1
 
-Write your own functions to solve problems that are dictated by your data, complete with multiple parameters and multiple return values, along with default arguments and variable-length arguments. Write lambda functions and handle errors in your very own function. 
+Write functions to solve problems that are dictated by your data, complete with multiple parameters and multiple return values, along with default arguments and variable-length arguments. Write lambda functions and handle errors.
 
 - Writing functions: write simple functions, or functions that accept multiple arguments and return multiple values. 
 
